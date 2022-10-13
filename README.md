@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yussef Raouf.
 - 👀 I’m a junior software developer who interested in python and django.
 - 🌱 I'm just here to document my journey.
-- 📫 My E-mail ==> yussef.raouf11@gmail.com
+- 📫 yussef.raouf11@gmail.com
                      
 
 <!---
