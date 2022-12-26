@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yussef raouf</h1>
 <h3 align="center">A passionate Software engineer and a backend developer who interested in SDLC and Software architetcture and design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusseef" alt="yusseef" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rakann312" target="blank"><img src="https://img.shields.io/twitter/follow/rakann312?logo=twitter&style=for-the-badge" alt="rakann312" /></a> </p>
 
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **yussef.raouf11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bqBWcfk5qjuz3XjCyuH-PePZzppRIw39/view?usp=share_link](https://drive.google.com/file/d/1bqBWcfk5qjuz3XjCyuH-PePZzppRIw39/view?usp=share_link)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1bqBWcfk5qjuz3XjCyuH-PePZzppRIw39/view?usp=share_link)
 
-- ⚡ Fun fact **I love cats & dogs**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
