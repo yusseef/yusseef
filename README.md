@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rakann312" target="blank"><img src="https://img.shields.io/twitter/follow/rakann312?logo=twitter&style=for-the-badge" alt="rakann312" /></a> </p>
+
 
 - 🔭 My main stack **Django**
 
