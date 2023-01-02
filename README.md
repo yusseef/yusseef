@@ -7,7 +7,7 @@
 
 - 🔭 My main stack **Django**
 
-- 🌱 I’m currently learning **JavaScript, DjangoREST**
+- 🌱 I’m currently learning **JavaScript, DjangoREST, Grokking Algorithms Book**
 
 - 📫 How to reach me **yussef.raouf11@gmail.com**
 
